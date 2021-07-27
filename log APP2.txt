@@ -1,0 +1,10 @@
+(requester) userlabs@sandbox:~/Devel/local/requester/app$ python3 app1.python3
+Starting HTTP Server on Port: 8080
+Request: http://srv1-aws.empresa.com:8080 HTTP Response: 200 Request Time: 0.01 ms
+Request: http://srv1-aws.empresa.com:8080 HTTP Response: 200 Request Time: 0.00 ms
+Request: http://srv1-aws.empresa.com:8080 HTTP Response: 200 Request Time: 0.00 ms
+Request: http://srv1-aws.empresa.com:8080 HTTP Response: 200 Request Time: 0.00 ms
+Request: http://srv1-aws.empresa.com:8080 HTTP Response: 200 Request Time: 0.01 ms
+Request: http://srv1-aws.empresa.com:8080 HTTP Response: 200 Request Time: 0.00 ms
+Request: http://srv1-aws.empresa.com:8080 HTTP Response: 200 Request Time: 0.01 ms
+Request: http://srv1-aws.empresa.com:8080 HTTP Response: 200 Request Time: 0.00 ms
